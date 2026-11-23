@@ -28,9 +28,3 @@ Add screenshots, wireframes, or mockups if applicable.
 
 ## Additional Context
 Add any other context or references related to the feature request here.
-
----
-
-## GSSoC Participation
-- [ ] I am a GSSoC'26 participant
-- [ ] I want to be assigned this issue to me

@@ -43,8 +43,7 @@ Add screenshots or recordings if your changes affect the UI/UX.
 
 ---
 
-## GSSoC'26 Contributor Declaration
+## Contributor Declaration
 
-- [ ] I confirm that I am a participant of GSSoC'26
 - [ ] I have followed the contribution guidelines of this project
 - [ ] This PR is ready for review

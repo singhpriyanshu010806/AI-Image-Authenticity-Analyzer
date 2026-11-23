@@ -28,9 +28,3 @@ Add any helpful references, links, or examples if applicable.
 
 ## Additional Context
 Add any additional information here.
-
----
-
-## GSSoC Participation
-- [ ] I am a GSSoC'26 participant
-- [ ] I want to be assigned this issue to me

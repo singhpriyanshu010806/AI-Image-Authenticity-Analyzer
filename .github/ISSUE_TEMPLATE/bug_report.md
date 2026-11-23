@@ -47,9 +47,3 @@ If applicable, add screenshots or paste error logs to help explain your problem.
 
 ## Additional Context
 Add any other context about the problem here.
-
----
-
-## GSSoC Participation
-- [ ] I am a GSSoC'26 participant
-- [ ] I want to be assigned this issue to me

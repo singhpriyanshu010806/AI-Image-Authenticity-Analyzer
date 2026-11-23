@@ -1,14 +1,14 @@
-# Contributing to PixelTruth
+# Contributing to AI Image Authenticity Analyzer
 
-Thank you for your interest in contributing to **PixelTruth**!
+Thank you for your interest in contributing to **AI Image Authenticity Analyzer**!
 
-PixelTruth is an AI-powered project that helps detect whether an image is real or AI-generated. We welcome contributions from everyone, including beginners, open-source contributors, and GSSoC'26 participants.
+AI Image Authenticity Analyzer is an open-source AI project that helps detect whether an image is real or AI-generated. We welcome contributions from developers, researchers, and open-source enthusiasts.
 
 ---
 
 ## 📌 About the Project
 
-PixelTruth focuses on image authenticity detection using AI/ML techniques.
+AI Image Authenticity Analyzer focuses on image authenticity detection using AI/ML techniques.
 
 Contributions can include:
 
@@ -33,13 +33,13 @@ Click on the **Fork** button at the top-right corner of the repository page.
 ### 2. Clone Your Forked Repository
 
 ```bash
-git clone https://github.com/your-username/PixelTruth.git
+git clone https://github.com/your-username/AI-Image-Authenticity-Analyzer.git
 ```
 
 ### 3. Move into the Project Directory
 
 ```bash
-cd PixelTruth
+cd AI-Image-Authenticity-Analyzer
 ```
 
 ### 4. Create a New Branch
@@ -97,7 +97,7 @@ git push origin feature/your-feature-name
 
 ### 10. Open a Pull Request
 
-Open a Pull Request from your forked repository to the main PixelTruth repository.
+Open a Pull Request from your forked repository to the main repository.
 
 ---
 
@@ -189,7 +189,7 @@ Mention how it improves the project.
 
 ## 🚀 Good Contribution Ideas
 
-Here are some useful contribution ideas for PixelTruth:
+Here are some useful contribution ideas for the project:
 
 - Improve Streamlit UI
 - Add batch image analysis
@@ -287,7 +287,7 @@ Please do not start working on an issue until it is assigned to you.
 To request assignment, comment on the issue:
 
 ```md
-I would like to work on this issue under GSSoC'26. Please assign it to me.
+I would like to work on this issue. Please assign it to me.
 ```
 
 Once assigned, try to complete the work within the given timeline.
