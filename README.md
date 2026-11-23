@@ -219,13 +219,13 @@ All settings can be configured via environment variables or a `.env` file:
 
 | Variable | Default | Purpose |
 | :--- | :--- | :--- |
-| `PIXELTRUTH_MODEL_PATH` | `deepfake_detection_model.h5` | Path to the trained Keras H5 model |
-| `PIXELTRUTH_API_KEY` | *(None)* | Optional API key required in the `X-API-Key` header |
-| `PIXELTRUTH_RATE_LIMIT` | `10/minute` | Rate limit per client IP on inference endpoints |
-| `PIXELTRUTH_POLL_RATE_LIMIT` | `120/minute` | Rate limit on task polling endpoints |
-| `PIXELTRUTH_MAX_ACTIVE_TASKS`| `32` | Maximum concurrent background tasks in memory |
-| `PIXELTRUTH_PERSIST_HISTORY` | `1` | `1` to persist predictions to SQLite; `0` for session-only |
-| `PIXELTRUTH_CORS_ORIGINS` | `http://localhost:8501,http://localhost:8000` | Allowed origins for web clients |
+| `AI-Image-Authenticity-Analyzer_MODEL_PATH` | `deepfake_detection_model.h5` | Path to the trained Keras H5 model |
+| `AI-Image-Authenticity-Analyzer_API_KEY` | *(None)* | Optional API key required in the `X-API-Key` header |
+| `AI-Image-Authenticity-Analyzer_RATE_LIMIT` | `10/minute` | Rate limit per client IP on inference endpoints |
+| `AI-Image-Authenticity-Analyzer_POLL_RATE_LIMIT` | `120/minute` | Rate limit on task polling endpoints |
+| `AI-Image-Authenticity-Analyzer_MAX_ACTIVE_TASKS`| `32` | Maximum concurrent background tasks in memory |
+| `AI-Image-Authenticity-Analyzer_PERSIST_HISTORY` | `1` | `1` to persist predictions to SQLite; `0` for session-only |
+| `AI-Image-Authenticity-Analyzer_CORS_ORIGINS` | `http://localhost:8501,http://localhost:8000` | Allowed origins for web clients |
 
 ---
 
