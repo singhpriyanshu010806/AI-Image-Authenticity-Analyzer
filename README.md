@@ -57,8 +57,8 @@ Dataset: [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-
 **Prerequisite:** Python **3.11**. TensorFlow 2.16 does not support 3.12+ here. On Windows you also need the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
 ```bash
-git clone https://github.com/Piyush-Sharma788/PixelTruth.git
-cd PixelTruth
+git clone https://github.com/singhpriyanshu010806/AI-Image-Authenticity-Analyzer.git
+cd AI-Image-Authenticity-Analyzer
 
 python3.11 -m venv venv
 source venv/bin/activate            # Windows: venv\Scripts\activate
@@ -319,5 +319,5 @@ PixelTruth took part in **GirlScript Summer of Code 2026**. Look for issues labe
 MIT — see [LICENSE](LICENSE).
 
 <p align="center">
-  Built with ❤️ for media integrity by <a href="https://github.com/daksh-ugi">Piyush Sharma</a>
+  Built with ❤️ for media integrity by <a href="https://github.com/singhpriyanshu010806">Priyanshu Singh</a>
 </p>
